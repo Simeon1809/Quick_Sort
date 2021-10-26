@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.exe
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.deps.json
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.runtimeconfig.json
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.dll
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\ref\Quick_Sort.dll
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\bin\Debug\net5.0\Quick_Sort.pdb
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.AssemblyInfo.cs
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.dll
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\ref\Quick_Sort.dll
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.pdb
+C:\Users\hp\source\repos\Quick_Sort\Quick_Sort\obj\Debug\net5.0\Quick_Sort.genruntimeconfig.cache

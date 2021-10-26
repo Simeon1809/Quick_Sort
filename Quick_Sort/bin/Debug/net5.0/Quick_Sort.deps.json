@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Quick_Sort/1.0.0": {
+        "runtime": {
+          "Quick_Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quick_Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
