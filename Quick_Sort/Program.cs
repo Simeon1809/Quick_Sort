@@ -17,7 +17,7 @@ namespace Quick_Sort
                 if (pivot + 1 < right)
                 {
                     QuickSort(arr, pivot + 1, right);
-                }
+                } 
             }
 
         }
